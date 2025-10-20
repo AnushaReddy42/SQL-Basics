@@ -27,7 +27,7 @@ It is designed to help understand SQL basics, aggregation, joins, and table oper
 ## File Structure
 
 ```
-SQL-Practice-Projects/
+SQL-Basics/
 ├── README.md
 ├── 01_Basic_Queries.sql
 ├── 02_Aggregation_Grouping.sql
