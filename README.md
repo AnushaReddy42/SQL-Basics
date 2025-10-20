@@ -1,45 +1,48 @@
-# SQL-Basics
+# 🧠 SQL-Basics
+
+Step-by-step SQL queries for beginners to practice and learn SQL concepts clearly and effectively.
 
 ---
 
-This repository contains **step-by-step SQL queries** for beginners to learn and practice SQL.  
-It is designed to help understand SQL basics, aggregation, joins, and table operations in a structured way.
+## 📘 About
+This repository contains SQL scripts covering fundamental to intermediate concepts such as:
 
-## Topics Covered
+- **Basic Queries:** SELECT, WHERE, ORDER BY, LIMIT  
+- **Aggregation & Grouping:** COUNT, SUM, AVG, GROUP BY, HAVING  
+- **Joins:** INNER JOIN, LEFT JOIN, RIGHT JOIN  
+- **Table Operations:** CREATE, INSERT, UPDATE, ALTER, DROP  
+- **Set Operations:** UNION, INTERSECT
 
-- Basic SELECT queries (SELECT, WHERE, ORDER BY, LIMIT)  
-- Aggregation and Grouping (COUNT, SUM, AVG, GROUP BY, HAVING)  
-- Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)  
-- Subqueries  
-- Set Operations (UNION, INTERSECT)  
-- Table creation and manipulation (CREATE, ALTER, DROP)  
-- Data Manipulation (INSERT, UPDATE, DELETE)
+Each file contains **comments explaining the queries** for easy understanding.
 
-## How to Use
+---
 
+## 📂 Files Included
+
+| File | Description |
+|------|-------------|
+| `01_Basic_Queries.sql` | Basic SELECT, filtering, and sorting queries |
+| `02_Aggregation_Grouping.sql` | Aggregation functions and GROUP BY examples |
+| `03_Joins.sql` | Examples of INNER, LEFT, and RIGHT JOINs between tables |
+
+---
+
+## 🛠️ How to Use
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/AnushaReddy42/SQL-Basics.git
-```
-2. Open `.sql` files in your preferred SQL environment (MySQL, PostgreSQL, SQLite, etc.)
-3. Execute queries **step by step** and read the comments inside each file for explanations.
 
-## File Structure
 
-```
-SQL-Basics/
-├── README.md
-├── 01_Basic_Queries.sql
-├── 02_Aggregation_Grouping.sql
-├── 03_Joins.sql
-```
+Open any .sql file in your SQL editor (MySQL, PostgreSQL, SQLite, etc.)
 
-## Notes
+Execute queries step by step to practice
 
-* Each SQL file contains **comments explaining queries**.
-* Recommended to **practice in order**: start with `01_Basic_Queries.sql` and progress sequentially.
+Read comments in each file to understand the logic
 
----
+🌟 Author
 
-Feel free to fork, clone, and practice SQL queries from this repository!
+Anusha Reddy
+📧 [anushareddykota400@gmail.com]
+🔗 [https://www.linkedin.com/in/anusha-kota-ba54ab32a/]
 
+⭐ If you find this repo helpful, give it a star on GitHub!
